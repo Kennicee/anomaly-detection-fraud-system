@@ -95,6 +95,6 @@ python anomaly_detection.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+Kennice James Dabreo
 AI Intern – Skillbit Technologies
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/kennice-dabreo-23294a343/) | [GitHub](https://github.com/Kennicee)
